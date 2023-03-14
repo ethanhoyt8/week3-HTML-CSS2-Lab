@@ -1,0 +1,73 @@
+#section1 {
+    width: 80%;
+    height: 100%;
+    border: 5px solid black;
+    margin: auto;
+}
+
+
+#section2 {
+    width: 80%;
+    height: 100%;
+    border: 15px dotted black;
+    padding: 30px;
+    margin: auto;
+    margin-top: 20px;
+
+}
+
+
+#section3 {
+    width: 20%;
+    height: 100%;
+    border: 1px solid grey;
+    padding: 100px;
+    margin:auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    box-shadow: 5px 3px 3px grey;
+
+}
+
+#purplebox {
+    height: 200px;
+    width: 100px;
+    position: relative;
+    left: 10px;
+    top: 190px;
+    background-color: purple;
+}
+
+#greenbox {
+    height: 200px;
+    width: 400px;
+    position: relative;
+    left: 300px;
+    bottom: 10px;
+    background-color:green;  
+}
+
+#bluecircle {
+    height: 200px;
+    width: 200px;
+    background-color: lightblue;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    left: 800px;
+    bottom: 220px;
+}
+
+#tanbox {
+    height: 200px;
+    width: auto;
+    background-color: tan; 
+    box-shadow: 5px 5px 10px black;
+}
+
+#text {
+    font-size: 40px;
+    text-align: center;
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
